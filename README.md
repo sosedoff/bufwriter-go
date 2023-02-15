@@ -1,6 +1,6 @@
 # bufwriter
 
-A simple buffered writer implementation
+A simple buffered `io.Writer` implementation for Golang.
 
 ## Usage
 
